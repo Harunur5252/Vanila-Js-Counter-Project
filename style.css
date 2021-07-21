@@ -1,0 +1,26 @@
+body{
+    background-color: lightcyan;
+}
+.main{
+    margin-top: 12%;
+    margin-left: 40%;
+}
+.para{
+    margin-left: 15%;
+    font-size: 60px;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+.heading{
+    font-size: 60px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.btnM{
+    margin-left: 32%;
+}
+
+
+
