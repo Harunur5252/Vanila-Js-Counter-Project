@@ -1,7 +1,4 @@
-class Data{
-    increase = 0
-}
-const data = new Data()
+import data from "./data"
 
 class UI{
     selectors(){
@@ -52,7 +49,4 @@ class UI{
     }
 }
 const ui = new UI()
-
-ui.loadAllEventListener()
-
-
+export default ui
