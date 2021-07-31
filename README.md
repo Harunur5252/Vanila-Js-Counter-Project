@@ -2,7 +2,7 @@
 
 
 # Counter 
-Check validation of some input filed in this project using regular expression
+This is a simple counter project where value is increased , decreased and reset
 
 ## Project Specifications
 
